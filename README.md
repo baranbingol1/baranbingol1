@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baran</h1>
-<h3 align="center">A passionate AI/Data engineering student from Turkey</h3>
+<h3 align="center">A passionate Artificial Intelligence and Data Engineering student from Turkey</h3>
 
 - 📝 I write Turkish articles/tutorials on [my blog](https://baranbingol1.github.io/)
 
