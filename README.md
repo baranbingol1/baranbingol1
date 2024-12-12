@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Artificial Intelligence and Data Engineering student from Turkey</h3>
 
 - 📝 I write Turkish articles/tutorials on [my blog](https://baranbingol1.github.io/)
+- 🌐 Explore my projects, blogs, and research in more detail: [my website](https://www.baranb.me/)
 
 <h3 align="left">My Kaggle Profile:</h3>
 <p align="left">
